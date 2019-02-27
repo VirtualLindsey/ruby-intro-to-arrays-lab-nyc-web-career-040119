@@ -2,5 +2,5 @@ def instantiate_new_array
   return []
 end 
 
-def 
+def array_with_two_elements
 end 
